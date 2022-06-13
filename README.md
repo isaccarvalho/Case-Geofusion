@@ -2,6 +2,8 @@
 
 *Dados fictícios
 
+Sobre: Previsão de faturamento; classificação e segmentação de bairros.
+
 *Linguagem R
 
 *Modelos de ML usados: RandonmForest e Redes Neurais h2o
