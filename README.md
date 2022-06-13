@@ -1,7 +1,8 @@
-# Case-Geofusion
-Case Cientista de Dados
+# Case Cientista de Dados Geofusion
 
 *Dados fictícios
+
+*Linguagem R
 
 *Modelos de ML usados: RandonmForest e Redes Neurais h2o
 
